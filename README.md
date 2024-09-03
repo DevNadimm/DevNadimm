@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter, HTML, CSS**
 
-- 📫 How to reach me **nadimchowdhury87@gmail.com**
+- 📫 Feel free to contact me at **nadimchowdhury87@gmail.com**
 
 - ⚡ Fun fact **I'm so introverted, my code has more social interactions than I do! 😄**
 

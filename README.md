@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nadim Chowdhury</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-img align="right" alt="Coding" width="400" src= "https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+img align="right" alt="Coding" width="400" src= "https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnadimm&label=Profile%20views&color=0e75b6&style=flat" alt="devnadimm" /> </p>
 

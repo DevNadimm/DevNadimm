@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnadimm&label=Profile%20views&color=0e75b6&style=flat" alt="devnadimm" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/DevNadim" target="blank"><img src="https://img.shields.io/twitter/follow/DevNadim?logo=twitter&style=for-the-badge" alt="DevNadim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nadimm_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nadimm_dev?logo=twitter&style=for-the-badge" alt="nadimm_dev" /></a> </p>
 
 - 🌱 I’m currently learning **Firebase**
 
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/DevNadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevNadim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/developernadimchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/developernadimchowdhury/" height="30" width="40" /></a>
-<a href="https://fb.com/aminadimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminadimm" height="30" width="40" /></a>
-<a href="https://instagram.com/nadimm.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadimm.x/" height="30" width="40" /></a>
+<a href="https://twitter.com/nadimm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadimm_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devnadimm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devnadimm/" height="30" width="40" /></a>
+<a href="https://fb.com/nadimm.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadimm.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/nadimm.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadimm.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
